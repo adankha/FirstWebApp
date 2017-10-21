@@ -15,5 +15,5 @@ Create a platform for UIC Students to create a customized tab for their Resumes.
 
 My Goal:<br />
 
-I want to create a custom website that not only holds details to my professional experience and qualifications,<br />
+I want to create a custom website that not only holds details to my professional experiences and qualifications,<br />
 but also show cases certain projects and algorithms I have implemented through animations and fun interactive mini-programs on the website.<br />
